@@ -2,8 +2,7 @@ PORTNAME=		openvpn
 DISTVERSION=		2.6.8
 PORTREVISION?=		1
 CATEGORIES=		security net net-vpn
-MASTER_SITES=		https://swupdate.openvpn.org/community/releases/ \
-			https://build.openvpn.net/downloads/releases/ \
+MASTER_SITES=		https://build.openvpn.net/downloads/releases/ \
 			LOCAL/mandree
 
 MAINTAINER=		mandree@FreeBSD.org
